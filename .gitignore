@@ -1,0 +1,5 @@
+*.img
+config/parts_info
+anonsuper
+/vendor_boot
+/staging
