@@ -1,0 +1,3 @@
+Filesystem created:        Thu Jan  1 01:00:00 1970
+Filesystem UUID:           1b8196df-a3c4-5669-b8c2-ff2fb196efe8
+mkfs.erofs options:        -zlz4hc -T 0 -U 1b8196df-a3c4-5669-b8c2-ff2fb196efe8 --mount-point=/vendor --fs-config-file=/home/jkoo/M2/mio/stock/config/vendor_fs_config --file-contexts=/home/jkoo/M2/mio/stock/config/vendor_file_contexts vendor_repack.img /home/jkoo/M2/mio/stock/vendor
